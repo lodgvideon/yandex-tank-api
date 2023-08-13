@@ -15,7 +15,7 @@ import itertools as itt
 import time
 
 import yandextank.core as tankcore
-import yandextank.core.consoleworker as core_console
+import yandextank.core.tankworker as core_console
 import threading
 
 # Yandex.Tank.Api modules
